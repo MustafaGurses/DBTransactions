@@ -1,0 +1,7 @@
+c:\users\vaio\documents\visual studio 2015\Projects\Tests\TrialInterface\bin\Debug\Interface.dll
+c:\users\vaio\documents\visual studio 2015\Projects\Tests\TrialInterface\bin\Debug\Interface.pdb
+c:\users\vaio\documents\visual studio 2015\Projects\Tests\TrialInterface\bin\Debug\DataBase.dll
+c:\users\vaio\documents\visual studio 2015\Projects\Tests\TrialInterface\bin\Debug\DataBase.pdb
+c:\users\vaio\documents\visual studio 2015\Projects\Tests\TrialInterface\obj\Debug\Interface.csprojResolveAssemblyReference.cache
+c:\users\vaio\documents\visual studio 2015\Projects\Tests\TrialInterface\obj\Debug\Interface.dll
+c:\users\vaio\documents\visual studio 2015\Projects\Tests\TrialInterface\obj\Debug\Interface.pdb

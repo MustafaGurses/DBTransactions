@@ -1,0 +1,4 @@
+c:\users\vaio\documents\visual studio 2015\Projects\Tests\DataBase\bin\Debug\DataBase.dll
+c:\users\vaio\documents\visual studio 2015\Projects\Tests\DataBase\bin\Debug\DataBase.pdb
+c:\users\vaio\documents\visual studio 2015\Projects\Tests\DataBase\obj\Debug\DataBase.dll
+c:\users\vaio\documents\visual studio 2015\Projects\Tests\DataBase\obj\Debug\DataBase.pdb

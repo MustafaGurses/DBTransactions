@@ -1,0 +1,13 @@
+c:\users\vaio\documents\visual studio 2015\Projects\Tests\Tests\bin\Debug\Tests.exe.config
+c:\users\vaio\documents\visual studio 2015\Projects\Tests\Tests\bin\Debug\Tests.exe
+c:\users\vaio\documents\visual studio 2015\Projects\Tests\Tests\bin\Debug\Tests.pdb
+c:\users\vaio\documents\visual studio 2015\Projects\Tests\Tests\bin\Debug\DataBase.dll
+c:\users\vaio\documents\visual studio 2015\Projects\Tests\Tests\bin\Debug\Interface.dll
+c:\users\vaio\documents\visual studio 2015\Projects\Tests\Tests\bin\Debug\DataBase.pdb
+c:\users\vaio\documents\visual studio 2015\Projects\Tests\Tests\bin\Debug\Interface.pdb
+c:\users\vaio\documents\visual studio 2015\Projects\Tests\Tests\obj\Debug\Tests.csprojResolveAssemblyReference.cache
+c:\users\vaio\documents\visual studio 2015\Projects\Tests\Tests\obj\Debug\Tests.Form1.resources
+c:\users\vaio\documents\visual studio 2015\Projects\Tests\Tests\obj\Debug\Tests.Properties.Resources.resources
+c:\users\vaio\documents\visual studio 2015\Projects\Tests\Tests\obj\Debug\Tests.csproj.GenerateResource.Cache
+c:\users\vaio\documents\visual studio 2015\Projects\Tests\Tests\obj\Debug\Tests.exe
+c:\users\vaio\documents\visual studio 2015\Projects\Tests\Tests\obj\Debug\Tests.pdb
