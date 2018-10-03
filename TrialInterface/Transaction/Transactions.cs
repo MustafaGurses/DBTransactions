@@ -58,5 +58,26 @@ namespace Interface
                 }
             }
         }
+        public DataTable GetTable(string Command,SqlConnection Connection)
+        {
+            using (var SqlCommand = new SqlCommand(Command, Connection))
+            {
+                using(var Adaptor = new SqlDataAdapter(SqlCommand))
+                {
+                    using (var Table = new DataTable())
+                    {
+                        try
+                        {
+                            Adaptor.Fill(Table);
+                            return Table;
+                        }
+                        catch
+                        {
+                            return null;
+                        }
+                    }
+                }
+            }
+        }
     }
 }
