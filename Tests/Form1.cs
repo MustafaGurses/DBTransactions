@@ -43,5 +43,10 @@ namespace Tests
                 }
             }
         }
+        private void button2_Click(object sender, System.EventArgs e)
+        {
+            Connect.Connection.Open();
+            dataGridView1.DataSource = ts.GetTable("select * from urunler", Connect.Connection);// Get Table from MS SQL
+        }
     }
 }
